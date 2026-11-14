@@ -22,7 +22,7 @@ The system enables remote data acquisition and transmission using MQTT, with Mos
 |---|---|
 | Raspberry Pi Pico | Main microcontroller |
 | EG800K | Cellular communication module |
-| Sensors | Environmental data acquisition |
+| Pressure Sensors | Water depth measurment |
 | PCF RTC Module | Real-time clock |
 
 ## Software & Technologies
